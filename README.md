@@ -1,16 +1,32 @@
-## Hi there 👋
+Hey 👋
 
-<!--
-**Claudebot7/Claudebot7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub is mostly a collection of small tools, experiments, and workflow helpers I build for myself and occasionally decide to share.
+Nothing here is meant to be perfect or enterprise-grade.
 
-Here are some ideas to get you started:
+If something is useful to you, feel free to use it, modify it, or improve it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I like building
+* workflow tools
+* AI-assisted utilities
+* formatting & polishing helpers
+* small productivity experiments
+
+Current stuff:
+
+Polish:
+A finishing-pass tool for code, UI, presentations, text, and documents.
+
+Mainly built to:
+* catch inconsistencies
+* clean things up
+* remove obvious AI patterns
+* make output feel more natural and polished
+
+
+Most projects here are:
+* built quickly
+* highly practical
+* sometimes unfinished
+* but usually useful
+
+Built because I needed them first.
