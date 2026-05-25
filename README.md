@@ -1,7 +1,7 @@
 # Hey 👋
 
 This GitHub is mostly a collection of small tools, experiments, and workflow helpers I build for myself and occasionally decide to share.
-Nothing here is meant to be perfect or enterprise-grade.
+Nothing here is meant to be perfect.
 
 If something is useful to you, feel free to use it, modify it, or improve it.
 
