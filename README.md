@@ -11,9 +11,9 @@ If something is useful to you, feel free to use it, modify it, or improve it.
 * formatting & polishing helpers
 * small productivity experiments
 
-# Current stuff
+## Current stuff
 
-# Polish
+### Polish
 A finishing-pass tool for code, UI, presentations, text, and documents.
 
 Mainly built to:
@@ -22,7 +22,7 @@ Mainly built to:
 * remove obvious AI patterns
 * make output feel more natural and polished
 
-# Notes
+## Notes
 
 Most projects here are:
 * built quickly
